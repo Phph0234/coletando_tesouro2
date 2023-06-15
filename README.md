@@ -1,1 +1,1 @@
-# coletando_tesouro2
+# coletar-tesouro
